@@ -27,7 +27,8 @@
     * 두 번째 줄: 프로세스 정보
     * 세 번째 줄: CPU 정보
     * 네 번쨰, 다섯 번쨰 줄: 메모리 정보
-    <img src="https://user-images.githubusercontent.com/106818132/171907650-d5252386-e47e-4911-b08b-b6cda69745c4.jpg" width="600 height="400""
+    
+    <img src="https://user-images.githubusercontent.com/106818132/171907650-d5252386-e47e-4911-b08b-b6cda69745c4.jpg" width="600 height="400">
 
    
 2) ps:
