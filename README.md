@@ -84,6 +84,7 @@
    * 시그널의 목록은 kill -l(엘) 명령으로 확인할 수 있다.
    
    <img src="https://user-images.githubusercontent.com/106818132/172007867-690f5121-f13d-4279-aafe-2b24089aef90.png" width="500" height="300">
+   
    * 옵션
       | 옵션 | 설명 |
       | :---: | --- |
